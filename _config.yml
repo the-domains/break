@@ -1,0 +1,14 @@
+layout_spectrum: 0.9419335757847875
+typography_spectrum: 0.027503010351210833
+color:
+  brandStrength: 0.01811760407872498
+  lightness: 0.570226528448984
+  saturation: 0.08865804458037019
+  rhythmicContrast: 0.5806527761742473
+  brandColors:
+    - '#2B3A42'
+    - '#3F5765'
+    - '#BDD4DE'
+    - '#EFEFEF'
+    - '#FF530D'
+name: break
